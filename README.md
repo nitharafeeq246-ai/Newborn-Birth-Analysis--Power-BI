@@ -2,18 +2,18 @@
 
 ## Project Overview
 - The Newborn Birth Analysis project is an interactive Power BI dashboard developed to explore newborn birth records and understand the relationship between maternal characteristics, pregnancy details, and newborn health indicators.
-The project uses the NC Births dataset (OpenIntro) to analyze birth-related information, identify patterns, and present meaningful insights through interactive visualizations.This is designed to make birth and maternal health data easier to understand through KPIs, charts, filters, and multiple analytical pages.
+-The project uses the NC Births dataset (OpenIntro) to analyze birth-related information, identify patterns, and present meaningful insights through interactive visualizations.This is designed to make birth and maternal health data easier to understand through KPIs, charts, filters, and multiple analytical pages.
 
 ## Project Objectives
-- The main objectives of this project are:
+ The main objectives of this project are:
 
-Analyze newborn birth records and understand overall birth trends.
-Explore the distribution of newborns by gender.
-Examine birth weight and identify low birth weight cases.
-Understand the distribution of pregnancy duration.
-Analyze the relationship between maternal age and birth records.
-Explore the relationship between maternal smoking habits and newborn health indicators.
-Identify patterns in pregnancy duration and baby weight.
+-Analyze newborn birth records and understand overall birth trends.
+-Explore the distribution of newborns by gender.
+-Examine birth weight and identify low birth weight cases.
+-Understand the distribution of pregnancy duration.
+-Analyze the relationship between maternal age and birth records.
+-Explore the relationship between maternal smoking habits and newborn health indicators.
+-Identify patterns in pregnancy duration and baby weight.
 
 ## Dataset Description
 
