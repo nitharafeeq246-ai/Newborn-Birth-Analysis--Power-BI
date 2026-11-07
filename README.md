@@ -7,19 +7,19 @@
 ## Project Objectives
  The main objectives of this project are:
 
--Analyze newborn birth records and understand overall birth trends.
+- Analyze newborn birth records and understand overall birth trends.
 
--Explore the distribution of newborns by gender.
+- Explore the distribution of newborns by gender.
 
--Examine birth weight and identify low birth weight cases.
+- Examine birth weight and identify low birth weight cases.
 
--Understand the distribution of pregnancy duration.
+- Understand the distribution of pregnancy duration.
 
--Analyze the relationship between maternal age and birth records.
+- Analyze the relationship between maternal age and birth records.
 
--Explore the relationship between maternal smoking habits and newborn health indicators.
+- Explore the relationship between maternal smoking habits and newborn health indicators.
 
--Identify patterns in pregnancy duration and baby weight.
+- Identify patterns in pregnancy duration and baby weight.
 
 ## Dataset Description
 
@@ -29,14 +29,16 @@ Total Records: 1,000
 Total Variables: 13
 
 The dataset contains information about newborn births, maternal characteristics, pregnancy details, and health-related indicators.
+
 The analysis focuses on variables related to:
-Baby Weight
-Baby Gender
-Mother's Age
-Pregnancy Weeks
-Smoking Habits
-Low Birth Weight
-Pregnancy and Birth Details
+
+- Baby Weight
+- Baby Gender
+- Mother's Age
+- Pregnancy Weeks
+- Smoking Habits
+- Low Birth Weight
+- Pregnancy and Birth Details
 
 ## Tools Used
 - Microsoft Power BI
